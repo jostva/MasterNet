@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jostva.MasterNet.WebApi.props" />
+</Project>

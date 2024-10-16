@@ -1,0 +1,11 @@
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Domain\bin\Debug\net9.0\jostva.MasterNet.Domain.deps.json
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Domain\bin\Debug\net9.0\jostva.MasterNet.Domain.dll
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Domain\bin\Debug\net9.0\jostva.MasterNet.Domain.pdb
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Domain\obj\Debug\net9.0\jostva.MasterNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Domain\obj\Debug\net9.0\jostva.MasterNet.Domain.AssemblyInfoInputs.cache
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Domain\obj\Debug\net9.0\jostva.MasterNet.Domain.AssemblyInfo.cs
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Domain\obj\Debug\net9.0\jostva.MasterNet.Domain.csproj.CoreCompileInputs.cache
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Domain\obj\Debug\net9.0\jostva.MasterNet.Domain.dll
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Domain\obj\Debug\net9.0\refint\jostva.MasterNet.Domain.dll
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Domain\obj\Debug\net9.0\jostva.MasterNet.Domain.pdb
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Domain\obj\Debug\net9.0\ref\jostva.MasterNet.Domain.dll

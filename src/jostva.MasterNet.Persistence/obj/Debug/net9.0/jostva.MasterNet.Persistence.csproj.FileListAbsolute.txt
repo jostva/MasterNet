@@ -1,0 +1,15 @@
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\bin\Debug\net9.0\jostva.MasterNet.Persistence.deps.json
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\bin\Debug\net9.0\jostva.MasterNet.Persistence.dll
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\bin\Debug\net9.0\jostva.MasterNet.Persistence.pdb
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\bin\Debug\net9.0\jostva.MasterNet.Domain.dll
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\bin\Debug\net9.0\jostva.MasterNet.Domain.pdb
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\obj\Debug\net9.0\jostva.MasterNet.Persistence.csproj.AssemblyReference.cache
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\obj\Debug\net9.0\jostva.MasterNet.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\obj\Debug\net9.0\jostva.MasterNet.Persistence.AssemblyInfoInputs.cache
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\obj\Debug\net9.0\jostva.MasterNet.Persistence.AssemblyInfo.cs
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\obj\Debug\net9.0\jostva.MasterNet.Persistence.csproj.CoreCompileInputs.cache
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\obj\Debug\net9.0\jostva.M.8CCE076C.Up2Date
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\obj\Debug\net9.0\jostva.MasterNet.Persistence.dll
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\obj\Debug\net9.0\refint\jostva.MasterNet.Persistence.dll
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\obj\Debug\net9.0\jostva.MasterNet.Persistence.pdb
+C:\Johan Project\MasterNet\src\jostva.MasterNet.Persistence\obj\Debug\net9.0\ref\jostva.MasterNet.Persistence.dll
